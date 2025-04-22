@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stephen, an <a href="https://linkedin.com/in/stephen-campbell-8b4676358">IT Professional</a>☺</h1>
+<h1>Hi, I'm Stephen Campbell, an <a href="https://linkedin.com/in/stephen-campbell-8b4676358">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
